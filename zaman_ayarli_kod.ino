@@ -7,7 +7,7 @@ unsigned long sure_ms;
 unsigned long dakika;
 void setup() 
 {
-    servo.attach(9); 
+    servo.attach(3); 
 }
 
 void loop() 
